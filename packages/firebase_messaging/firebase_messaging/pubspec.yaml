@@ -38,9 +38,3 @@ flutter:
       android:
         package: io.flutter.plugins.firebase.messaging
         pluginClass: FlutterFirebaseMessagingPlugin
-      ios:
-        pluginClass: FLTFirebaseMessagingPlugin
-      macos:
-        pluginClass: FLTFirebaseMessagingPlugin
-      web:
-        default_package: firebase_messaging_web

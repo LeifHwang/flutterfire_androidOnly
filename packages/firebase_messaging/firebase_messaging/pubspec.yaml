@@ -17,7 +17,7 @@ environment:
   flutter: '>=3.3.0'
 
 dependencies:
-  firebase_core: any
+  firebase_core: ^4.0.0
   firebase_core_platform_interface: ^6.0.0
   firebase_messaging_platform_interface: ^4.7.0
   firebase_messaging_web: ^4.0.0
